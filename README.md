@@ -1,5 +1,10 @@
 ## Exercise for the position of bioinformatician
-### IBCH PAS
+
+<div align="left">
+ Institute of Bioorganic Chemistry<br />
+ Polish Academy of Sciences<br />
+ Department of Molecular Neurobiology<br />
+</div>
 
 <p align="right">
 <img  src="https://github.com/jkubis96/JSEQ_scRNAseq/blob/main/setup/fig/logo_jbs.PNG?raw=true" alt="drawing" width="250" />
